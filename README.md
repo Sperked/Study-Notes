@@ -1,5 +1,5 @@
 # Study_Notes
-Notes on Web DEvelopment Subjects
+Notes on Web Development Subjects
 ## Prework Study Guide Webpage
 Description
 This Study Guide was created for boot camp students who are learning coding and going through the prework. It contains notes on HTML, CSS, Git, and JavaScript. These lessons are a great start into learning HTML, CSS, Git, and JavaScript.
